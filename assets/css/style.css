@@ -28,7 +28,14 @@ body {
 header {
     background-color: lightcoral;
  }
-/* Main */
+
+ h1 {
+    font-family: 'Oswald', sans-serif;
+ }
+
+
+
+/* Main content  */
  main {
     background-color: lightblue ;
     /* Main element to take up any surplus space */
